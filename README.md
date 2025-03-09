@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi 👋 My name is Shawn Ogbomo =============================  I'm fascinated with programming; hopefully, such a discipline will yield success.  * 🌍  I'm based in Toronto, Ontario * ✉️  You can contact me at [shawn\_ogbomo@hotmail.com](mailto:shawn_ogbomo@hotmail.com)
 
-<!--
-**Shawn-Ogbomo/Shawn-Ogbomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.github.com/Shawn-Ogbomo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Shawn-Ogbomo?logo=github&style=for-the-badge&color=64748b&labelColor=1e3a8a" /></a>
+### Skills  
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a> </p> 
+ ### Socials  <p align="left"> <a href="https://www.github.com/Shawn-Ogbomo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shawn-ogbomo-66183b260/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Shawn-Ogbomo"><img src="https://github-readme-stats.vercel.app/api?username=Shawn-Ogbomo&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Shawn-Ogbomo's GitHub stats" /></a>
+<a href="http://www.github.com/Shawn-Ogbomo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shawn-Ogbomo&stroke=ffffff&background=1e3a8a&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Shawn-Ogbomo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shawn-Ogbomo&bg_color=1e3a8a&color=ffffff&line=64748b&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/Shawn-Ogbomo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn-Ogbomo&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Shawn-Ogbomo/BSC" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shawn-Ogbomo&repo=BSC&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/Shawn-Ogbomo/345" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shawn-Ogbomo&repo=345&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Shawn-Ogbomo/DSA_T_GOODRICH" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shawn-Ogbomo&repo=DSA_T_GOODRICH&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/Shawn-Ogbomo/More_Effective_Cpp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shawn-Ogbomo&repo=More_Effective_Cpp&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div>
