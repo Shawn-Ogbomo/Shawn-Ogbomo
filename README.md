@@ -8,7 +8,5 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Shawn-Ogbomo"><img src="https://github-readme-stats.vercel.app/api?username=Shawn-Ogbomo&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Shawn-Ogbomo's GitHub stats" /></a>
-<a href="http://www.github.com/Shawn-Ogbomo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shawn-Ogbomo&stroke=ffffff&background=1e3a8a&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/Shawn-Ogbomo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shawn-Ogbomo&bg_color=1e3a8a&color=ffffff&line=64748b&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/Shawn-Ogbomo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn-Ogbomo&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Shawn-Ogbomo"><img src="https://github-readme-stats.vercel.app/api?username=Shawn-Ogbomo&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=64748b&icon_color=64748b&bg_color=22272e&hide_border=true&show_icons=true" alt="Shawn-Ogbomo's GitHub stats" /></a>
+<a href="https://github.com/Shawn-Ogbomo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn-Ogbomo&langs_count=10&title_color=64748b&text_color=64748b&icon_color=64748b&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
